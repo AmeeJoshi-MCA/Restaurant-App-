@@ -6,4 +6,6 @@ Live Data,ViewModel,Data Binding, Repositories etc.
 Note: 1 Few parameters are added in Json of Restaurant data to make UI more better.
       2 Static images are also used.
 
+Just add project to android studio and run the project. Application will run. 
+
 "# JustTakeAwayDemo" 
