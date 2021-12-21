@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JustTakeAwayDemo</string>
+    <string name="title_all_res">All Restaurants</string>
+    <string name="title_favorite">Favorites</string>
+</resources>

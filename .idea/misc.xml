@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidLatest/JuseTakeAway/Examples/JustTakeAwayDemo/app/src/main/res/drawable-anydpi/ic_current_user.xml" value="0.1675" />
+        <entry key="..\:/AndroidLatest/JuseTakeAway/Examples/JustTakeAwayDemo/app/src/main/res/drawable-anydpi/ic_default_image_restaurant.xml" value="0.168" />
+        <entry key="..\:/AndroidLatest/JuseTakeAway/Examples/JustTakeAwayDemo/app/src/main/res/drawable-anydpi/ic_email.xml" value="0.168" />
+        <entry key="..\:/AndroidLatest/JuseTakeAway/Examples/JustTakeAwayDemo/app/src/main/res/drawable-anydpi/ic_faqs.xml" value="0.1675" />
+        <entry key="..\:/AndroidLatest/JuseTakeAway/Examples/JustTakeAwayDemo/app/src/main/res/drawable-anydpi/ic_fav_fill.xml" value="0.168" />
+        <entry key="..\:/AndroidLatest/JuseTakeAway/Examples/JustTakeAwayDemo/app/src/main/res/drawable-anydpi/ic_fav_outline.xml" value="0.2115" />
+        <entry key="..\:/AndroidLatest/JuseTakeAway/Examples/JustTakeAwayDemo/app/src/main/res/drawable-anydpi/ic_favourite.xml" value="0.168" />
+        <entry key="..\:/AndroidLatest/JuseTakeAway/Examples/JustTakeAwayDemo/app/src/main/res/drawable-anydpi/ic_history.xml" value="0.168" />
+        <entry key="..\:/AndroidLatest/JuseTakeAway/Examples/JustTakeAwayDemo/app/src/main/res/drawable-anydpi/ic_home.xml" value="0.168" />
+        <entry key="..\:/AndroidLatest/JuseTakeAway/Examples/JustTakeAwayDemo/app/src/main/res/drawable-anydpi/ic_location.xml" value="0.168" />
+        <entry key="..\:/AndroidLatest/JuseTakeAway/Examples/JustTakeAwayDemo/app/src/main/res/drawable-anydpi/ic_lock.xml" value="0.168" />
+        <entry key="..\:/AndroidLatest/JuseTakeAway/Examples/JustTakeAwayDemo/app/src/main/res/drawable-anydpi/ic_menu.xml" value="0.168" />
+        <entry key="..\:/AndroidLatest/JuseTakeAway/Examples/JustTakeAwayDemo/app/src/main/res/drawable-anydpi/ic_person.xml" value="0.168" />
+        <entry key="..\:/AndroidLatest/JuseTakeAway/Examples/JustTakeAwayDemo/app/src/main/res/drawable-anydpi/ic_phone.xml" value="0.168" />
+        <entry key="..\:/AndroidLatest/JuseTakeAway/Examples/JustTakeAwayDemo/app/src/main/res/drawable-anydpi/ic_rating_star.xml" value="0.168" />
+        <entry key="..\:/AndroidLatest/JuseTakeAway/Examples/JustTakeAwayDemo/app/src/main/res/drawable-anydpi/ic_search.xml" value="0.168" />
+        <entry key="..\:/AndroidLatest/JuseTakeAway/Examples/JustTakeAwayDemo/app/src/main/res/drawable-anydpi/ic_star.xml" value="0.168" />
+        <entry key="..\:/AndroidLatest/JuseTakeAway/Examples/JustTakeAwayDemo/app/src/main/res/drawable/ic_back.xml" value="0.168" />
+        <entry key="..\:/AndroidLatest/JuseTakeAway/Examples/JustTakeAwayDemo/app/src/main/res/drawable/ic_text_border_orange.xml" value="0.168" />
+        <entry key="..\:/AndroidLatest/JuseTakeAway/Examples/JustTakeAwayDemo/app/src/main/res/drawable/ic_text_border_white.xml" value="0.168" />
+        <entry key="..\:/AndroidLatest/JuseTakeAway/Examples/JustTakeAwayDemo/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidLatest/JuseTakeAway/Examples/JustTakeAwayDemo/app/src/main/res/layout/activity_restaurant_detail.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidLatest/JuseTakeAway/Examples/JustTakeAwayDemo/app/src/main/res/layout/activity_splash.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidLatest/JuseTakeAway/Examples/JustTakeAwayDemo/app/src/main/res/layout/favorite_restaurant.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidLatest/JuseTakeAway/Examples/JustTakeAwayDemo/app/src/main/res/layout/fragment_favorite.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidLatest/JuseTakeAway/Examples/JustTakeAwayDemo/app/src/main/res/layout/fragment_home.xml" value="0.1308876811594203" />
+        <entry key="..\:/AndroidLatest/JuseTakeAway/Examples/JustTakeAwayDemo/app/src/main/res/layout/fragment_user.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidLatest/JuseTakeAway/Examples/JustTakeAwayDemo/app/src/main/res/layout/item_favorite_restaurant.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidLatest/JuseTakeAway/Examples/JustTakeAwayDemo/app/src/main/res/layout/item_filter.xml" value="0.25" />
+        <entry key="..\:/AndroidLatest/JuseTakeAway/Examples/JustTakeAwayDemo/app/src/main/res/layout/item_restaurant.xml" value="0.1308876811594203" />
+        <entry key="..\:/AndroidLatest/JuseTakeAway/Examples/JustTakeAwayDemo/app/src/main/res/layout/item_restaurant_dummy.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidLatest/JuseTakeAway/Examples/JustTakeAwayDemo/app/src/main/res/layout/raw_restaurant.xml" value="0.19010416666666666" />
+        <entry key="..\:/AndroidLatest/JuseTakeAway/Examples/JustTakeAwayDemo/app/src/main/res/layout/restaurant_menu.xml" value="0.13134057971014493" />
+        <entry key="..\:/AndroidLatest/JuseTakeAway/Examples/JustTakeAwayDemo/app/src/main/res/layout/restaurant_menu_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidLatest/JuseTakeAway/Examples/JustTakeAwayDemo/app/src/main/res/menu/bottom_nav_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidLatest/JuseTakeAway/Examples/JustTakeAwayDemo/app/src/main/res/menu/filter_nav_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidLatest/JuseTakeAway/Examples/JustTakeAwayDemo/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1675" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

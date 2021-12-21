@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <data>
+        <variable
+            name="restaurant"
+            type="com.takeawaydemo.ui.data.Restaurant" />
+
+        <variable
+            name="listener"
+            type="com.takeawaydemo.ui.adapter.FavoriteRestaurantListener" />
+    </data>
+
+
+    <com.google.android.material.card.MaterialCardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:onClick="@{() -> listener.onRestaurantClicked(restaurant)}"
+        app:cardCornerRadius="10dp"
+        app:cardElevation="10dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <com.google.android.material.imageview.ShapeableImageView
+                android:id="@+id/image_view_restaurant_image"
+                android:layout_width="match_parent"
+                android:layout_height="140dp"
+                android:scaleType="fitXY"
+                app:setImage="@{restaurant.image}"
+                />
+
+            <com.google.android.material.textview.MaterialTextView
+                android:id="@+id/text_view_name"
+                android:layout_width="wrap_content"
+                android:layout_height="25dp"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="5dp"
+                android:text="@{restaurant.name}"
+                android:textSize="20sp"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:layout_below="@+id/image_view_restaurant_image"
+                />
+
+            <com.google.android.material.textview.MaterialTextView
+                android:id="@+id/text_view_rating"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="8dp"
+                android:layout_marginEnd="10dp"
+                android:drawableStart="@drawable/ic_star"
+                android:drawablePadding="5dp"
+                android:layout_below="@+id/image_view_restaurant_image"
+                android:layout_alignParentEnd="true"
+                android:textColor="@color/colorPrimary"
+                android:text="@{restaurant.sortingValues.ratingAverage  +`/5` }"
+                android:textSize="16sp"
+                />
+
+            <com.google.android.material.textview.MaterialTextView
+                android:id="@+id/text_view_mincost"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="10dp"
+                android:text="@{`Min  $` +restaurant.sortingValues.minCost}"
+                android:layout_below="@+id/text_view_name"
+                />
+
+            <com.google.android.material.textview.MaterialTextView
+                android:id="@+id/text_view_delivery_cost"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="16dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="10dp"
+                android:layout_alignParentEnd="true"
+                android:text="@{`Delivery $` +restaurant.sortingValues.deliveryCosts}"
+                android:layout_below="@+id/text_view_name"
+                />
+
+        </RelativeLayout>
+
+    </com.google.android.material.card.MaterialCardView>
+
+</layout>
