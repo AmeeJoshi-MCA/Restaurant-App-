@@ -1,4 +1,4 @@
-# Just Take away Demo By Amee Joshi
+# Restaurant Demo By Amee Joshi
 
 This repository contains a Restaurant app that implements MVVM architecture using Kotlin, coroutines,
 Live Data,ViewModel,Data Binding, Repositories etc.
