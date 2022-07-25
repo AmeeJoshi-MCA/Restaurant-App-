@@ -17,8 +17,8 @@ import kotlinx.coroutines.launch
 
 class HomeViewModel : ViewModel(), RestaurantListener, RestaurantFilterListener {
 
-    private val _restaurantList = MutableLiveData<List<Restaurant>>()
-    val restaurantList: LiveData<List<Restaurant>> = _restaurantList
+    val _restaurantList = MutableLiveData<List<Restaurant>>()
+    //val restaurantList: LiveData<List<Restaurant>> = _restaurantList
 
     private val _filterOptionList = MutableLiveData<List<FilterOption>>()
     val filterOption: LiveData<List<FilterOption>> = _filterOptionList

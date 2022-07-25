@@ -45,7 +45,7 @@
             android:layout_below="@+id/recycler_view_filter_option"
             app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
             app:setAdapter="@{adapter}"
-            app:submitList="@{viewModel.restaurantList}"
+            app:submitList="@{viewModel._restaurantList}"
             tools:listitem="@layout/item_restaurant" />
 
     </RelativeLayout>
